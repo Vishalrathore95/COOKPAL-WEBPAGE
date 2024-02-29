@@ -24,7 +24,9 @@ To get started with the Cookpal website, you can simply clone the repository and
 
 bash
 Copy code
-git clone https://github.com/your-username/cookpal.git
+https://github.com/Vishalrathore95/COOKPAL-WEBPAGE/tree/main
+
+
 cd cookpal
 Usage
 Open the index.html file in a web browser.
@@ -32,11 +34,12 @@ Explore different sections of the website using the navigation bar.
 Use the search bar to find specific recipes.
 Filter recipes based on the provided options.
 Screenshots
-
+![Screenshot_29-2-2024_215652_127 0 0 1](https://github.com/Vishalrathore95/COOKPAL-WEBPAGE/assets/138272471/16450728-5484-413a-ab5d-534f32a5e2b0)
 Homepage of the Cookpal website.
 
 
 Recipes section with filtering options.
+
 
 
 Footer with company information and subscription option.
