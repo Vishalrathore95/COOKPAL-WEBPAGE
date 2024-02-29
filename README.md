@@ -26,6 +26,9 @@ bash
 Copy code
 https://github.com/Vishalrathore95/COOKPAL-WEBPAGE/tree/main
 
+visit this webpage
+ https://vishalrathore95.github.io/COOKPAL-WEBPAGE/
+
 
 cd cookpal
 Usage
